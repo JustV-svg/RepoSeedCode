@@ -1,5 +1,7 @@
 Información del proyecto, Este proyecto consiste en dos crud sencillos, simulando una Libreria con solo dos tablas. Autores y Libros
 
+Solo FUNCIONA un crud (autores)
+
 INFORMACIÓN ADICIONAL --- No se necesita descargar ningun paquete Nuget, solo se necesita tener una instancia de SQL server activa y funcional
 
 EXPLICACIÓN DE USO: Al momento de abrir el proyecto, solo se necesita ir a la sección de appsettings y cambiar el nombre del servidor por el suyo...para cambiar la base de datos se puede hacer de igual forma por una que ustedes
